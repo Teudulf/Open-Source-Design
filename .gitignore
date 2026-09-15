@@ -1,0 +1,13 @@
+# Reference art by other people — never redistribute
+inspo/
+
+# Local history and old assets
+backups/
+index_backup.html
+image.png
+
+# Brand source art stays private
+logo/logo.ai
+
+# Personal design notes
+.interface-design/
